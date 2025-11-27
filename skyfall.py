@@ -8,7 +8,7 @@ import os
 
 NUM_ESTRELLAS = 180
 PROB_METEORO = 0.003
-PROB_TKM = 0.05
+PROB_TKM = 0.06
 
 
 # ----------------------------------------------------------
